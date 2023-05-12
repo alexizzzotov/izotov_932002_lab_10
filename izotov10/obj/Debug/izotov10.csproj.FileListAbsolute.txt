@@ -1,0 +1,11 @@
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\izotov_L10\izotov10\bin\Debug\izotov10.exe.config
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\izotov_L10\izotov10\bin\Debug\izotov10.exe
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\izotov_L10\izotov10\bin\Debug\izotov10.pdb
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\izotov_L10\izotov10\obj\Debug\izotov10.csproj.AssemblyReference.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\izotov_L10\izotov10\obj\Debug\izotov10.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\izotov_L10\izotov10\obj\Debug\izotov10.Properties.Resources.resources
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\izotov_L10\izotov10\obj\Debug\izotov10.csproj.GenerateResource.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\izotov_L10\izotov10\obj\Debug\izotov10.csproj.CoreCompileInputs.cache
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\izotov_L10\izotov10\obj\Debug\izotov10.exe
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\izotov_L10\izotov10\obj\Debug\izotov10.pdb
+C:\Users\ЧЕЙСИЛА\Desktop\LABSim\izotov_L10\izotov10\obj\Debug\izotov10.Form1.resources
